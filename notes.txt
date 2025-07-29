@@ -1,3 +1,2 @@
 ﻿Line 1: First update
-Line 2: Second update
 Line 3: Third update
