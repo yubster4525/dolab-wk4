@@ -1,0 +1,6 @@
+﻿This
+is
+file1
+from
+feature-1
+branch.
